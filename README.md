@@ -1,4 +1,4 @@
-First run `npm install` on application and backend server is inside the application with `server` name
+First run `npm install` on application and backend server.Backend server is inside the application with `server` name
 
 then, run `npm start` both on application and backend server
 
